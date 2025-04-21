@@ -1,18 +1,62 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Dale Tan",
+	"title": "tinker.blog",
 	"icon": "https://micro.blog/dale/avatar.jpg",
 	"home_page_url": "https://tinkerblog.micro.blog/",
 	"feed_url": "https://tinkerblog.micro.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2025/04/20/liberated-another-touch-id-sensor.html",
+				
+				"content_html": "<p>Liberated another Touch ID sensor from a failing keyboard and put it to good use.</p>\n<p>Also, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Liberated another Touch ID sensor from a failing keyboard and put it to good use.\n\nAlso, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!\n\n<img src=\"uploads/2025/745603bcea.jpg\" width=\"600\" height=\"450\" alt=\"Touch ID sensor in a purple case\"><img src=\"uploads/2025/1835daadf5.jpg\" width=\"450\" height=\"600\" alt=\"Touch ID sensor, bare, with ribbon cable\"><img src=\"uploads/2025/65683ec982.jpg\" width=\"600\" height=\"276\" alt=\"Screenshot of camera app on iPhone in macro mode, framing a pair of tweezers pulling tape from a connector on a black PCB\">\n",
+				"date_published": "2025-04-20T18:34:13-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/20/liberated-another-touch-id-sensor.html",
+				"tags": ["3D Printing","Tinkering"]
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/04/08/finished-product-star-shape-not.html",
+				
+				"content_html": "<p>Finished product - star shape not as obvious I had hoped, but it isn’t bad for a few hours work! #3dprinted</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished product - star shape not as obvious I had hoped, but it isn’t bad for a few hours work! #3dprinted\n\n<img src=\"uploads/2025/40a120a4a9.jpg\" width=\"450\" height=\"600\" alt=\"Backlit back panel of a mirror that was 3D printed\">\n",
+				"date_published": "2025-04-08T20:36:15-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/08/finished-product-star-shape-not.html",
+				"tags": ["3D Printing"]
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/04/07/mail-from-limor-fried-never.html",
+				
+				"content_html": "<p>Mail from Limor Fried never gets tired.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mail from Limor Fried never gets tired.\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-07T19:26:05-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/07/mail-from-limor-fried-never.html"
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html",
+				
+				"content_html": "<p>The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut.</p>\n<p>So I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut. \r\n\r\nSo I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?\n\n<img src=\"uploads/2025/img-8414.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-07T19:04:16-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html"
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
+				
+				"content_html": "<p>I missed the days where computing was simpler, so I pulled <a href=\"https://support.apple.com/en-us/docs/displays/109732\">some</a> <a href=\"https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)\">retro</a> <a href=\"https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)\">parts</a> together with an <a href=\"https://support.apple.com/en-us/121555\">M4 Mac Mini</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I missed the days where computing was simpler, so I pulled [some](https://support.apple.com/en-us/docs/displays/109732) [retro](https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)) [parts](https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)) together with an [M4 Mac Mini](https://support.apple.com/en-us/121555).\n\n<img src=\"uploads/2025/45bd170ae8.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-05T18:05:52-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
+				"tags": ["Computing"]
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2025/04/05/severance-speaker-i-havent-watched.html",
 				
 				"content_html": "<p>Severance speaker.</p>\n<p>I haven&rsquo;t watched it, and I have no idea as to the significance of the speaker, yet. But it&rsquo;s cute and I can always do with another desktop widget at work.</p>\n<p>I&rsquo;m using this guide: <a href=\"https://learn.adafruit.com/bluetooth-speaker\">learn.adafruit.com/bluetooth&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Severance speaker.\r\n\r\nI haven't watched it, and I have no idea as to the significance of the speaker, yet. But it's cute and I can always do with another desktop widget at work.\r\n\r\nI'm using this guide: [learn.adafruit.com/bluetooth...](https://learn.adafruit.com/bluetooth-speaker)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tinkerblog.micro.blog/uploads/2025/video-2025-04-06-03-58-58.mp4\" width=\"1760\" height=\"1080\" poster=\"https://tinkerblog.micro.blog/uploads/2025/poster.png\" preload=\"none\"></video>\n",
+				"content_text": "Severance speaker.\n\nI haven't watched it, and I have no idea as to the significance of the speaker, yet. But it's cute and I can always do with another desktop widget at work.\n\nI'm using this guide: [learn.adafruit.com/bluetooth...](https://learn.adafruit.com/bluetooth-speaker)\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://tinkerblog.micro.blog/uploads/2025/video-2025-04-06-03-58-58.mp4\" width=\"1760\" height=\"1080\" poster=\"https://tinkerblog.micro.blog/uploads/2025/poster.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-04-05T16:47:16-07:00",
-				"url": "https://tinkerblog.micro.blog/2025/04/05/severance-speaker-i-havent-watched.html"
+				"url": "https://tinkerblog.micro.blog/2025/04/05/severance-speaker-i-havent-watched.html",
+				"tags": ["3D Printing"]
 			}
 	]
 }
