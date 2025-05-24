@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2025/05/23/why-doomscroll-on-social-media.html",
+				
+				"content_html": "<p>Why #doomscroll on social media when you can watch your 3D printer instead? It’s so much more exciting watching it put a part together layer by layer! #3Dprinting</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Why #doomscroll on social media when you can watch your 3D printer instead? It’s so much more exciting watching it put a part together layer by layer! #3Dprinting\n\n<img src=\"https://pixelpeeper.micro.blog/uploads/2025/90a2f4346a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-23T21:36:25-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/05/23/why-doomscroll-on-social-media.html",
+				"tags": ["3D Printing","Tinkering"]
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/04/23/faced-with-the-possibility-of.html",
+				
+				"content_html": "<p>Faced with the possibility of another night of washing dishes by hand, a <em>$425</em> dishwasher installation quote, and visiting family, I was suddenly hit by a wave of inspiration and turned plumber for the evening.</p>\n<p>Behold, I present you a dishwasher that I installed myself. And it hasn’t leaked (yet)!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Faced with the possibility of another night of washing dishes by hand, a _$425_ dishwasher installation quote, and visiting family, I was suddenly hit by a wave of inspiration and turned plumber for the evening. \n\nBehold, I present you a dishwasher that I installed myself. And it hasn’t leaked (yet)!\n\n<img src=\"uploads/2025/2453915424.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2025/e7db0a2d62.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-23T23:54:22-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/04/23/faced-with-the-possibility-of.html",
+				"tags": ["Tinkering","Home maintenance "]
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2025/04/20/liberated-another-touch-id-sensor.html",
 				
 				"content_html": "<p>Liberated another Touch ID sensor from a failing keyboard and put it to good use.</p>\n<p>Also, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -36,7 +54,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html",
 				
 				"content_html": "<p>The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut.</p>\n<p>So I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut. \r\n\r\nSo I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?\n\n<img src=\"uploads/2025/img-8414.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut. \r\n\r\nSo I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/img-8414.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-07T19:04:16-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html"
 			},
@@ -44,7 +62,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
 				
 				"content_html": "<p>I missed the days where computing was simpler, so I pulled <a href=\"https://support.apple.com/en-us/docs/displays/109732\">some</a> <a href=\"https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)\">retro</a> <a href=\"https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)\">parts</a> together with an <a href=\"https://support.apple.com/en-us/121555\">M4 Mac Mini</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I missed the days where computing was simpler, so I pulled [some](https://support.apple.com/en-us/docs/displays/109732) [retro](https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)) [parts](https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)) together with an [M4 Mac Mini](https://support.apple.com/en-us/121555).\n\n<img src=\"uploads/2025/45bd170ae8.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I missed the days where computing was simpler, so I pulled [some](https://support.apple.com/en-us/docs/displays/109732) [retro](https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)) [parts](https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)) together with an [M4 Mac Mini](https://support.apple.com/en-us/121555).\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/45bd170ae8.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-05T18:05:52-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
 				"tags": ["Computing"]
