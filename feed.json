@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2025/06/22/sidemount-external-filament-mount.html",
+				"title": "Sidemount external filament mount",
+				"content_html": "<p>Printed a side-mount external reel holder for the 3D printer. Saves me from awkwardly having to reach behind to mount an external reel, and also switching the PTFE feed tube.</p>\n<p>This one works great with reels big and small, including the color samplers that I love!</p>\n<p>As most folks with 3D printers know : easily half your prints are going to be some accessory for your hobby.</p>\n<p>This model I found happens to include the Bambu logo, so I tried to do a color match.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Printed a side-mount external reel holder for the 3D printer. Saves me from awkwardly having to reach behind to mount an external reel, and also switching the PTFE feed tube.\n\nThis one works great with reels big and small, including the color samplers that I love!\n\nAs most folks with 3D printers know : easily half your prints are going to be some accessory for your hobby.\n\nThis model I found happens to include the Bambu logo, so I tried to do a color match.\n\n<img src=\"uploads/2025/a8bb089581.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/e02fd6515a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/4588d675ed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-22T21:05:28-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/06/22/sidemount-external-filament-mount.html"
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/05/31/lpt-if-your-pc-sits.html",
+				
+				"content_html": "<p>#LPT : If your PC sits under your desk, on the floor, put it on furniture sliders to move it easily.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "#LPT : If your PC sits under your desk, on the floor, put it on furniture sliders to move it easily.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://pixelpeeper.micro.blog/uploads/2025/image.mp4\" width=\"720\" height=\"1280\" poster=\"https://pixelpeeper.micro.blog/uploads/2025/poster.png\" preload=\"none\"></video>\n",
+				"date_published": "2025-05-31T21:31:58-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/05/31/lpt-if-your-pc-sits.html",
+				"tags": ["Computing"]
+			},
+			{
+				"id": "http://tinkerblog.micro.blog/2025/05/31/lorem-ipsum-dolor-sit-amet.html",
+				
+				"content_html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et arcu tellus. Donec vel ante a purus sagittis varius. Praesent at eros odio. Proin feugiat aliquam mauris at maximus. Pellentesque porttitor sem nisi, ut lacinia nibh dignissim eget. Praesent aliquam nunc et blandit dignissim. Integer rutrum rutrum condimentum. Suspendisse fringilla diam cursus, malesuada eros ac, bibendum tellus. Cras pulvinar justo ipsum, ut feugiat nibh commodo ut. Morbi ultrices, lectus congue tempus efficitur, felis metus posuere sem, quis blandit felis ligula sed felis.</p>\n<p>Integer mauris est, blandit nec magna ac, ornare suscipit sapien. Mauris rutrum, nisi sed dapibus finibus, libero dui sagittis diam, lacinia scelerisque velit tellus non est. Integer dictum lacus eget hendrerit pulvinar. In gravida consequat nisl quis ullamcorper. Ut vestibulum velit sit amet ultrices blandit. Donec facilisis facilisis quam eget bibendum. Sed enim est, commodo eget mollis et, placerat vitae ex.</p>\n",
+				"content_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et arcu tellus. Donec vel ante a purus sagittis varius. Praesent at eros odio. Proin feugiat aliquam mauris at maximus. Pellentesque porttitor sem nisi, ut lacinia nibh dignissim eget. Praesent aliquam nunc et blandit dignissim. Integer rutrum rutrum condimentum. Suspendisse fringilla diam cursus, malesuada eros ac, bibendum tellus. Cras pulvinar justo ipsum, ut feugiat nibh commodo ut. Morbi ultrices, lectus congue tempus efficitur, felis metus posuere sem, quis blandit felis ligula sed felis.\n\nInteger mauris est, blandit nec magna ac, ornare suscipit sapien. Mauris rutrum, nisi sed dapibus finibus, libero dui sagittis diam, lacinia scelerisque velit tellus non est. Integer dictum lacus eget hendrerit pulvinar. In gravida consequat nisl quis ullamcorper. Ut vestibulum velit sit amet ultrices blandit. Donec facilisis facilisis quam eget bibendum. Sed enim est, commodo eget mollis et, placerat vitae ex.\n\n",
+				"date_published": "2025-05-31T09:15:16-07:00",
+				"url": "https://tinkerblog.micro.blog/2025/05/31/lorem-ipsum-dolor-sit-amet.html",
+				"tags": ["Site Maintenance "]
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2025/05/31/got-all-the-parts-in.html",
 				
 				"content_html": "<p>Got all the parts in… and it looks good on one side… not so on the other.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
