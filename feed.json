@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2026/04/25/psa-rtfm-and-dont-try.html",
+				
+				"content_html": "<p>[PSA] RTFM and don’t try to charge 1.5V Li-Ion batteries with 1.2V NiMH chargers.</p>\n<p>Also, having a patch of garden you’re willing to bury a burning battery in, is pretty useful.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[PSA] RTFM and don’t try to charge 1.5V Li-Ion batteries with 1.2V NiMH chargers. \n\nAlso, having a patch of garden you’re willing to bury a burning battery in, is pretty useful.\n\n<img src=\"uploads/2026/2c2cd42a1b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-04-25T16:07:27-07:00",
+				"url": "https://tinkerblog.micro.blog/2026/04/25/psa-rtfm-and-dont-try.html"
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2026/01/31/i-made-a-thing-it.html",
 				
 				"content_html": "<p>I made a thing, it took me over 20 hours to print. It’s cute. That is all.</p>\n<p>(Credit to OHR Design for the STLs)</p>\n<p>#3dprinting</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -54,7 +62,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/09/19/its-been-a-long-while.html",
 				
 				"content_html": "<p>It’s been a long while since I’ve seen one of these. Had to hunt for a cable to do the firmware updating.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s been a long while since I’ve seen one of these. Had to hunt for a cable to do the firmware updating.\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/287003eaa1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It’s been a long while since I’ve seen one of these. Had to hunt for a cable to do the firmware updating.\n\n<img src=\"uploads/2025/287003eaa1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-19T19:02:22-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/09/19/its-been-a-long-while.html",
 				"tags": ["Tinkering"]
@@ -98,7 +106,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/05/31/got-all-the-parts-in.html",
 				
 				"content_html": "<p>Got all the parts in… and it looks good on one side… not so on the other.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Got all the parts in… and it looks good on one side… not so on the other.\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/4aa0624862.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/c0f35aa399.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got all the parts in… and it looks good on one side… not so on the other.\n\n<img src=\"uploads/2025/4aa0624862.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2025/c0f35aa399.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-31T09:04:15-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/05/31/got-all-the-parts-in.html",
 				"tags": ["Computing"]
@@ -107,7 +115,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/05/26/heartlung-transplant-and-it-boots.html",
 				
 				"content_html": "<p>Heart-lung transplant and it boots on first try 🫣</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Heart-lung transplant and it boots on first try 🫣\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/a3f6141e16.jpg\" width=\"450\" height=\"600\" alt=\"AMD Ryzen 9 9950X3D CPU in packaging, on a black ASUS motherboard\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/24a3522f38.jpg\" width=\"450\" height=\"600\" alt=\"Black ASUS motherboard next to open computer case\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/c8de52c900.jpg\" width=\"600\" height=\"450\" alt=\"Running computer in open case next to small monitor showing Windows login screen\">\n",
+				"content_text": "Heart-lung transplant and it boots on first try 🫣\n\n<img src=\"uploads/2025/a3f6141e16.jpg\" width=\"450\" height=\"600\" alt=\"AMD Ryzen 9 9950X3D CPU in packaging, on a black ASUS motherboard\"><img src=\"uploads/2025/24a3522f38.jpg\" width=\"450\" height=\"600\" alt=\"Black ASUS motherboard next to open computer case\"><img src=\"uploads/2025/c8de52c900.jpg\" width=\"600\" height=\"450\" alt=\"Running computer in open case next to small monitor showing Windows login screen\">\n",
 				"date_published": "2025-05-26T21:32:49-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/05/26/heartlung-transplant-and-it-boots.html",
 				"tags": ["Computing","Tinkering"]
@@ -125,7 +133,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/23/faced-with-the-possibility-of.html",
 				
 				"content_html": "<p>Faced with the possibility of another night of washing dishes by hand, a <em>$425</em> dishwasher installation quote, and visiting family, I was suddenly hit by a wave of inspiration and turned plumber for the evening.</p>\n<p>Behold, I present you a dishwasher that I installed myself. And it hasn’t leaked (yet)!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Faced with the possibility of another night of washing dishes by hand, a _$425_ dishwasher installation quote, and visiting family, I was suddenly hit by a wave of inspiration and turned plumber for the evening. \n\nBehold, I present you a dishwasher that I installed myself. And it hasn’t leaked (yet)!\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/2453915424.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/e7db0a2d62.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "Faced with the possibility of another night of washing dishes by hand, a _$425_ dishwasher installation quote, and visiting family, I was suddenly hit by a wave of inspiration and turned plumber for the evening. \n\nBehold, I present you a dishwasher that I installed myself. And it hasn’t leaked (yet)!\n\n<img src=\"uploads/2025/2453915424.jpg\" width=\"480\" height=\"600\" alt=\"\"><img src=\"uploads/2025/e7db0a2d62.jpg\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-23T23:54:22-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/23/faced-with-the-possibility-of.html",
 				"tags": ["Tinkering","Home maintenance "]
@@ -134,7 +142,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/20/liberated-another-touch-id-sensor.html",
 				
 				"content_html": "<p>Liberated another Touch ID sensor from a failing keyboard and put it to good use.</p>\n<p>Also, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Liberated another Touch ID sensor from a failing keyboard and put it to good use.\n\nAlso, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/745603bcea.jpg\" width=\"600\" height=\"450\" alt=\"Touch ID sensor in a purple case\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/1835daadf5.jpg\" width=\"450\" height=\"600\" alt=\"Touch ID sensor, bare, with ribbon cable\"><img src=\"https://tinkerblog.micro.blog/uploads/2025/65683ec982.jpg\" width=\"600\" height=\"276\" alt=\"Screenshot of camera app on iPhone in macro mode, framing a pair of tweezers pulling tape from a connector on a black PCB\">\n",
+				"content_text": "Liberated another Touch ID sensor from a failing keyboard and put it to good use.\n\nAlso, turns out that the macro mode on camera on my iPhone makes a pretty good loupe!\n\n<img src=\"uploads/2025/745603bcea.jpg\" width=\"600\" height=\"450\" alt=\"Touch ID sensor in a purple case\"><img src=\"uploads/2025/1835daadf5.jpg\" width=\"450\" height=\"600\" alt=\"Touch ID sensor, bare, with ribbon cable\"><img src=\"uploads/2025/65683ec982.jpg\" width=\"600\" height=\"276\" alt=\"Screenshot of camera app on iPhone in macro mode, framing a pair of tweezers pulling tape from a connector on a black PCB\">\n",
 				"date_published": "2025-04-20T18:34:13-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/20/liberated-another-touch-id-sensor.html",
 				"tags": ["3D Printing","Tinkering"]
@@ -143,7 +151,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/08/finished-product-star-shape-not.html",
 				
 				"content_html": "<p>Finished product - star shape not as obvious I had hoped, but it isn’t bad for a few hours work! #3dprinted</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished product - star shape not as obvious I had hoped, but it isn’t bad for a few hours work! #3dprinted\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/40a120a4a9.jpg\" width=\"450\" height=\"600\" alt=\"Backlit back panel of a mirror that was 3D printed\">\n",
+				"content_text": "Finished product - star shape not as obvious I had hoped, but it isn’t bad for a few hours work! #3dprinted\n\n<img src=\"uploads/2025/40a120a4a9.jpg\" width=\"450\" height=\"600\" alt=\"Backlit back panel of a mirror that was 3D printed\">\n",
 				"date_published": "2025-04-08T20:36:15-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/08/finished-product-star-shape-not.html",
 				"tags": ["3D Printing"]
@@ -152,7 +160,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/07/mail-from-limor-fried-never.html",
 				
 				"content_html": "<p>Mail from Limor Fried never gets tired.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mail from Limor Fried never gets tired.\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mail from Limor Fried never gets tired.\n\n<img src=\"uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-07T19:26:05-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/07/mail-from-limor-fried-never.html"
 			},
@@ -160,7 +168,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html",
 				
 				"content_html": "<p>The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut.</p>\n<p>So I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut. \r\n\r\nSo I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/img-8414.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The concave side of the bathroom mirror broke, and I felt compelled to replace it rather risk a glass cut. \r\n\r\nSo I measured it out and designed a 6mm thick panel which I printed in PETG. Added a star to the design while I was at it, because, why not?\n\n<img src=\"uploads/2025/img-8414.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-07T19:04:16-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/07/the-concave-side-of-the.html"
 			},
@@ -168,7 +176,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
 				
 				"content_html": "<p>I missed the days where computing was simpler, so I pulled <a href=\"https://support.apple.com/en-us/docs/displays/109732\">some</a> <a href=\"https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)\">retro</a> <a href=\"https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)\">parts</a> together with an <a href=\"https://support.apple.com/en-us/121555\">M4 Mac Mini</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I missed the days where computing was simpler, so I pulled [some](https://support.apple.com/en-us/docs/displays/109732) [retro](https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)) [parts](https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)) together with an [M4 Mac Mini](https://support.apple.com/en-us/121555).\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/45bd170ae8.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I missed the days where computing was simpler, so I pulled [some](https://support.apple.com/en-us/docs/displays/109732) [retro](https://en.wikipedia.org/wiki/Apple_pointing_devices#Apple_Pro_Mouse_(M5769)) [parts](https://en.wikipedia.org/wiki/Apple_keyboards#Apple_Keyboard_(109_and_78_keys)) together with an [M4 Mac Mini](https://support.apple.com/en-us/121555).\n\n<img src=\"uploads/2025/45bd170ae8.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-05T18:05:52-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/04/05/i-missed-the-days-where.html",
 				"tags": ["Computing"]
