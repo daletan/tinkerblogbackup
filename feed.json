@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2026/05/09/once-upon-a-time-you.html",
+				
+				"content_html": "<p>Once upon a time, you could crack open your PowerBook G3 and swap out your drive with the most minimal of tools.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Once upon a time, you could crack open your PowerBook G3 and swap out your drive with the most minimal of tools.\n\n<img src=\"uploads/2026/770df5ecba.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-09T16:21:58-07:00",
+				"url": "https://tinkerblog.micro.blog/2026/05/09/once-upon-a-time-you.html",
+				"tags": ["Computing","Tinkering"]
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2026/05/02/likely-the-fastest-way-of.html",
 				"title": "Likely the fastest way of getting through your Gmail messages (save for Select-All-and-Delete)",
 				"content_html": "<p>Probably fastest way of getting through Gmail messages. <a href=\"https://github.com/ThomasHabets/cmdg\">https://github.com/ThomasHabets/cmdg</a></p>\n<p>I&rsquo;ve been looking for a TUI client for my distraction-free computing setup and it seems I&rsquo;ve found it.</p>\n",
@@ -53,7 +62,7 @@
 				"id": "http://tinkerblog.micro.blog/2025/09/28/was-at-maker-faire-bay.html",
 				
 				"content_html": "<p>Was at Maker Faire Bay Area this past weekend - feeling inspired to teach myself new skills, for whenever inspiration strikes like a giant red robot beautifully backlit in a massive former shipyard. #makerfaire</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was at Maker Faire Bay Area this past weekend - feeling inspired to teach myself new skills, for whenever inspiration strikes like a giant red robot beautifully backlit in a massive former shipyard. #makerfaire\n\n<img src=\"uploads/2025/7c32ec1457.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Was at Maker Faire Bay Area this past weekend - feeling inspired to teach myself new skills, for whenever inspiration strikes like a giant red robot beautifully backlit in a massive former shipyard. #makerfaire\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2025/7c32ec1457.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-28T23:02:18-07:00",
 				"url": "https://tinkerblog.micro.blog/2025/09/28/was-at-maker-faire-bay.html",
 				"tags": ["Tinkering"]
