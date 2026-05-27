@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://tinkerblog.micro.blog/2026/05/27/looking-for-a-new-journaling.html",
+				
+				"content_html": "<p>Looking for a new journaling platform for private thoughts.</p>\n",
+				"content_text": "Looking for a new journaling platform for private thoughts. \n",
+				"date_published": "2026-05-27T13:10:57-07:00",
+				"url": "https://tinkerblog.micro.blog/2026/05/27/looking-for-a-new-journaling.html",
+				"tags": ["Tinkering"]
+			},
+			{
 				"id": "http://tinkerblog.micro.blog/2026/05/17/late-night-heart-transplant-an.html",
 				
 				"content_html": "<p>Late night heart transplant.</p>\n<p>An austere Linux build with a Ryzen 5600G, a bit of RAM and 1TB of storage</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -45,7 +54,7 @@
 				"id": "http://tinkerblog.micro.blog/2026/04/25/psa-rtfm-and-dont-try.html",
 				
 				"content_html": "<p>[PSA] RTFM and don’t try to charge 1.5V Li-Ion batteries with 1.2V NiMH chargers.</p>\n<p>Also, having a patch of garden you’re willing to bury a burning battery in, is pretty useful.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[PSA] RTFM and don’t try to charge 1.5V Li-Ion batteries with 1.2V NiMH chargers. \n\nAlso, having a patch of garden you’re willing to bury a burning battery in, is pretty useful.\n\n<img src=\"uploads/2026/2c2cd42a1b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "[PSA] RTFM and don’t try to charge 1.5V Li-Ion batteries with 1.2V NiMH chargers. \n\nAlso, having a patch of garden you’re willing to bury a burning battery in, is pretty useful.\n\n<img src=\"https://tinkerblog.micro.blog/uploads/2026/2c2cd42a1b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-04-25T16:07:27-07:00",
 				"url": "https://tinkerblog.micro.blog/2026/04/25/psa-rtfm-and-dont-try.html"
 			},
